@@ -1,0 +1,3 @@
+This sample file is written using 'w' mode 
+Hi, This is the sample text 
+I am learnig Python for File Handling 
